@@ -1,1 +1,6 @@
-media中的是Demo演示时所要使用的视频和图片
+## 瀹夊崜鍏ㄦ櫙鎷兼帴SDK panoramic android sdk
+
+[涓枃鐗圿(./documents/zh/)
+
+
+[English](./documents/en/)
