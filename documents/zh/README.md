@@ -6,7 +6,7 @@
 
 ## 新手教程
 
-[原生](./tutorials/basic.md)
+[原生android](./tutorials/basic.md)
 
 [Maven项目](./tutorials/maven.md)
 
