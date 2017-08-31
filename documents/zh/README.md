@@ -6,7 +6,11 @@
 
 ## 新手教程
 
-[新手教程](./tutorials/basic.md)
+[原生](./tutorials/basic.md)
+
+[Maven项目](./tutorials/maven.md)
+
+[Gradle项目](./tutorials/gradle.md)
 
 ## SDK接口文档
 
