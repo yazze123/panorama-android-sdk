@@ -8,4 +8,4 @@
 
 截屏
 
-了解更多：[http://www.pisofttech.com](http://www.pisofttech.com/?ref=github)
+了解更多：[http://www.pisofttech.com](http://www.pisofttech.com/)
