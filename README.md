@@ -1,4 +1,4 @@
-## 安卓全景拼接SDK panoramic android sdk
+## 安卓全景拼接SDK panorama android sdk
 
 [中文版](./documents/zh/)
 
