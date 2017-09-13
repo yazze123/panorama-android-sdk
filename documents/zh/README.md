@@ -19,4 +19,4 @@
 
 [SDK接口文档](./sdk-api/)
 
-了解更多：[http://www.pisofttech.com](http://www.pisofttech.com/?ref=github)
+了解更多：[http://www.pisofttech.com](http://www.pisofttech.com/)
